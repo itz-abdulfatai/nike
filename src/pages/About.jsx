@@ -17,10 +17,10 @@ function About() {
     <h1 className="text-[60px] uppercase  font-palanquin font-extrabold pt-1 max-sm:hidden sm:-translate-x-36 md:-translate-x-60 lg:-translate-x-72 xl:-translate-x-96 wide:-translate-x-[450px] -z-10"> ABOUT ME</h1>
 
     <p className=" break-words text-sm  ">
-        repellat magnam maiores maxime facilis expedita eveniet quisquam, temporibus at aperiam necessitatibus nesciunt laudantium minus illo perspiciatis vitae ea in.
+    <span className=" text-coral-red text-4xl ">   Hi </span>I am Abdulfatai aliyu a frontend developer.  I can develop, maintain and deploy web Applications. I have extensive experience of more than 2 years and a firm grip over leading client-side languages and frameworks and libraries like <span className=" text-coral-red ">Next.js</span>, HTML, CSS, <span className=" text-coral-red ">javascript</span>, <span className=" text-coral-red ">typescript</span>, bootstrap, <span className=" text-coral-red ">TailwindCSS</span>, <span className=" text-coral-red ">React.js</span>, etc..
         <br/>
         <br/>
-         icta cumque pariatur odio quidem facere culpa non quos praesentium sit, officiis alias enim voluptatem suscipit harum amet neque. Ducimus recusandae assumenda impedit quaerat tenetur fugit. Nesciunt, doloribus voluptatum, necessitatibus recusandae libero odit facilis saepe expedita explicabo, aliquid neque!
+         I am currently open and willing to work. Contact me for frontend dev of your e-commerce sites, blog sites, sales funnels, Landing pages, Business sites etc.. Kindly contact me <span className=" text-coral-red">below </span>
     </p>
     </div>
 
