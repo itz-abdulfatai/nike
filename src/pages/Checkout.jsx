@@ -37,7 +37,7 @@ function Checkout() {
 
   const navigate = useNavigate();
   return (
-    <main className=" padding max-container min-h-screen flex flex-col lg:flex-row items-stretch ">
+    <main className=" padding max-container min-h-screen flex flex-col lg:flex-row justify-between items-stretch ">
       <div className=" flex flex-col items-stretch justify-between px-3 gap-5 py-10">
         <div className=" capitalize flex items-center text-lg gap-3 text-coral-red font-bold leading-normal font-montserrat">
           <button onClick={() => navigate(-1)}>
