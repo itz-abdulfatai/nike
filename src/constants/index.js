@@ -239,14 +239,14 @@ export const footerLinks = [
 export const socialMedia = [
     { src: fiverr, alt: "fiverr logo", href:"https://www.fiverr.com/abdulfataialiyu" },
     { src: upwork, alt: "upwork logo", href:"https://www.upwork.com/freelancers/~01947ddbabf861c9db"  },
-    { src: instagram, alt: "instagram logo", href:"https://instagram.com/itz_abdulfatai"  },
+    { src: instagram, alt: "instagram logo", href:"https://instagram.com/itz_abdul.fatai"  },
 ];
 
 
 export const socialMediaAlt = [
   { src: whiteFiverr, alt: "fiverr logo", href:"https://www.fiverr.com/abdulfataialiyu" },
   { src: whiteUpwork, alt: "upwork logo", href:"https://www.upwork.com/freelancers/~01947ddbabf861c9db"  },
-  { src: whiteInstagram, alt: "instagram logo", href:"https://instagram.com/itz_abdulfatai"  },
+  { src: whiteInstagram, alt: "instagram logo", href:"https://instagram.com/itz_abdul.fatai"  },
 ];
 export const paymentGateways = [
   {
