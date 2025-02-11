@@ -65,7 +65,7 @@ function Checkout() {
         </div>
       </div>
 
-      <div className="bg-slate-gray p-7   capitalize rounded-2xl flex flex-col gap-5 justify-start items-stretch font-montserrat text-white ">
+      <div className="bg-slate-gray p-7 max-w-[600px]   capitalize rounded-2xl flex flex-col gap-5 justify-start items-stretch font-montserrat text-white ">
         <div>
           <h3 className=" font-bold text-2xl">Card Details</h3>
         </div>
